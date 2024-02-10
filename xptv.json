@@ -1,5 +1,4 @@
 {
-    "name": "huanghong",
-    "is_on": false,
-    "is_off": false,
+    "show_official_m3u": true,
+    "official_m3u": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
 }
