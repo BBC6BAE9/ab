@@ -1,4 +1,5 @@
 {
     "show_official_m3u": false,
+    "free_sub_count": 2,
     "official_m3u": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
 }
